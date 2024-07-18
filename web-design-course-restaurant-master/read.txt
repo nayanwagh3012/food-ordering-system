@@ -1,0 +1,36 @@
+http://localhost/food/fos/admin/login.php = for admin site
+Username: admin
+Password: admin123
+
+
+features of the Project
+Admin Side
+Admin Dashboard Summary
+Category Management (CRUD)
+Menu/Product Management (CRUD)
+Order Management
+Admin-site User Management (CRUD)
+System Information/Settings Management
+Secure Login and Logout
+Client-Side
+Secure Login and Logout
+Registration
+Menu List w/ Pagination
+Menu/Product Details Modal
+Add to Cart
+Shopping Cart List Page
+Update Shopping Cart Items
+Checkout Page
+
+Software Requirement to run this project
+XAMPP SERVER
+PHP MYADMIN
+
+Tools and Technologies to be used in this project
+XAMPP SERVER
+PHP MYADMIN
+
+
+
+
+
